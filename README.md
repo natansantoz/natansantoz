@@ -1,4 +1,4 @@
-## Hi there! I'm Natã Santos
+## Hi! I'm Natã Santos
 
 <div>
   <a href="https://github.com/natansantoz">
