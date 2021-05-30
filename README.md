@@ -5,7 +5,7 @@
 <div>
 <a href="https://github.com/AVS1508">
   <img height="180em" width = "400em" src="https://github-readme-stats.vercel.app/api?username=natansantoz&show_icons=true&theme=radical" />
-  <img height="180em" width = "420em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=natansantoz&theme=radical&layout=compact" />
+  <img height="180em" width = "400em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=natansantoz&theme=radical&layout=compact" />
 <div>
 
   
