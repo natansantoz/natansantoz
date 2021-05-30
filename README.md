@@ -1,6 +1,4 @@
-## Hi! I'm Natã Santos
 
-## My Stats
 
  <div>
   <a href="https://github.com/rafaballerini">
