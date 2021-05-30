@@ -1,4 +1,4 @@
-## Hi! I'm Natã Santos
+## Hi! I'm Natã Santos 👨‍💻
 
 ## My Stats
 
