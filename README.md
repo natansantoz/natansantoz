@@ -1,9 +1,10 @@
 ## Hi! I'm Natã Santos 👨‍💻
 
-<div>
+<div> 
 <a href="https://github.com/natansantoz">
-  <img height="180em" width = "425em" src="https://github-readme-stats.vercel.app/api?username=natansantoz&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" width = "420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natansantoz&layout=compact&langs_count=16&theme=radical "/>
+  <img height="180em" width = "425em" src="https://github-readme-stats.vercel.app/api?username=natansantoz&bg_color=000&title_color=00FFFF&text_color=fff&icon_color=00FFFF&hide_border=true&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  
+  <img height="180em" width = "420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natansantoz&bg_color=000&title_color=00FFFF&text_color=fff&icon_color=00FFFF&hide_border=true&layout=compact&langs_count=16&theme=radical "/>
 <div>
   
 <div style="display: inline_block"><br>
