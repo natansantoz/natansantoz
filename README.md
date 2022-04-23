@@ -1,4 +1,4 @@
-## Hey, I'm Natã Santos! 👋
+## Hey, I'm Natã Santos! 🙋‍♂️☕
 
 <!-- 
  <div> 
