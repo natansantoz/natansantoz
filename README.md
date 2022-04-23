@@ -13,6 +13,7 @@
 	
 ##
  -->
- <div> 
-  <a href="https://www.linkedin.com/in/natan-s-oliv/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- </div>
+</br>
+<h3 align="left">🔗 Contact me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/natan-s-oliv/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kizzyterra" height="30" width="40" /></a>
