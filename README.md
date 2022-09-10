@@ -1,4 +1,4 @@
-<h2 align="center">Hi there 👋, I'm Natã Santos! ☕</h2>
+<h2 align="center">Hi there 👋, I'm Natã Santos!</h2>
 <!-- ![Gif](https://github.com/natansantoz/natansantoz/blob/main/a1.gif) -->
 
 - 🔬 I’m currently studying Computer Science at IFNMG.
