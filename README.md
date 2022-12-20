@@ -16,4 +16,4 @@
 
 <h3 align="center">🔗 Contact me: </h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/ntsdo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kizzyterra" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/natanteixeirasantosdeoliveiradev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kizzyterra" height="30" width="40" /></a>
