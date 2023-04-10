@@ -1,7 +1,7 @@
 <h2 align="center">Hi there 👋, I'm Natã Santos!</h2>
 
 - 🔬 I’m currently studying Computer Science at IFNMG.
-- 🤖 I have an interest in Computer Vision, Neural Networks, Deep Learning and ML in general.
+- 🤖 I have an interest in Computer Vision, Neural Networks, Deep Learning (ML in general).
 
 
 <h3 align="center">💼 My Languages and Tools: </h3>
