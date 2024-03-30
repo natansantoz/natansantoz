@@ -6,7 +6,7 @@
 
 <h3 align="center">💼 My Languages and Tools: </h3>
 <p align="center"> 
-	<a href="https://streamlit.io/](https://www.java.com/download/help/whatis_java.html" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/java/java.png" alt="Java" width="40" height="40"/> </a>
+	<a href="https://www.java.com/download/help/whatis_java.html" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/java/java.png" alt="Java" width="40" height="40"/> </a>
 	<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" class="center"/> </a> 
 	<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/> </a>
 	<a href="https://streamlit.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rlew631/rlew631/b09a7af3f30f8b5a5428dbeb07b9021622018685/red_streamlit.svg" alt="Streamlit" width="40" height="40"/> </a>
