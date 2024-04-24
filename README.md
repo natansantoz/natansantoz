@@ -20,7 +20,7 @@
 
 <h3 align="center">🔗 Contact me</h3>
 <div align="center">
-  <a href="https://www.linkedin.com/in/neythan" target="blank">
+  <a href="https://www.linkedin.com/in/neythan" target="_blank">
     <img align="center" alt="LinkedIn" height="30" width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />
   </a>
 </div>
