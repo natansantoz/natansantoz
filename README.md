@@ -18,9 +18,9 @@
 
 ##
 
-<h3 align="center">🔗 Contact me: </h3>
+<h3 align="center">🔗 Contact me</h3>
 <div align="center">
   <a href="https://www.linkedin.com/in/neythan" target="blank">
-    <img align="center" alt="LinkedIn" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
+    <img align="center" alt="LinkedIn" height="30" width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />
   </a>
 </div>
