@@ -1,4 +1,4 @@
-<h2 align="center">Olá! Sou Natã, desenvolvedor apaixonado por tecnologia 👨🏻‍💻.</h2>
+<h2 align="center">Olá! Sou Natã, um entusiasta da tecnologia 👨🏻‍💻.</h2>
 
 - 🔬 Cursando Ciência da Computação no IFNMG.
 - 🛠️ Atualmente, tenho focado meus estudos em Desenvolvimento de Software e Aprendizado de Máquina.
