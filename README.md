@@ -1,7 +1,7 @@
-<h2 align="center">Hi there 👋, I'm Natã Santos!</h2>
+<h2 align="center">Olá! Sou Natã, desenvolvedor apaixonado por tecnologia 👨🏻‍💻.</h2>
 
-- 🔬 I'm currently studying Computer Science at IFNMG.
-- 🛠️ I have an interest in Software Development as well as Machine Learning.
+- 🔬 Cursando Ciência da Computação no IFNMG.
+- 🛠️ Atualmente, tenho focado meus estudos em Desenvolvimento de Software e Aprendizado de Máquina.
 
 <br>
 
@@ -15,7 +15,7 @@
 
 ##
 
-<h3 align="center">🔗 Contact me</h3>
+<h3 align="center">🔗 Contato</h3>
 <div align="center">
   <a href="https://www.linkedin.com/in/neythan" target="_blank">
     <img align="center" alt="LinkedIn" height="30" width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />
