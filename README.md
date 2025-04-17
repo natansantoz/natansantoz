@@ -1,6 +1,13 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header"/>
 
-<h2 align="center">Olá! Bem vindo ao meu perfil👨🏻‍💻.</h2>
+
+<div style="display: inline_block" align="center">
+  <p>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=60000&&duration=2000&color=EEEEEE&center=true&multiline=true&repeat=true&width=435&lines=Ol%C3%A1!%20Bem+vindo+ao+meu+perfil!"/>
+</div>
+
+
+<br>
 
 - 🔬 Cursando Ciência da Computação no IFNMG.
 - 🛠️ Atualmente, tenho focado meus estudos em Desenvolvimento de Software e Aprendizado de Máquina.
