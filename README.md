@@ -3,7 +3,7 @@
 
 <div style="display: inline_block" align="center">
   <p>
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=40&duration=1600&pause=120000&color=EEEEEE&center=true&width=800&height=90&lines=Ol%C3%A1!+Bem+vindo+ao+meu+perfil!"/>
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&duration=1600&pause=120000&color=EEEEEE&center=true&width=600&height=90&lines=Ol%C3%A1!+Bem+vindo+ao+meu+perfil!"/>
 </div>
 
 - 🔬 Cursando Ciência da Computação no IFNMG.
