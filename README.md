@@ -36,7 +36,7 @@
 
 <h3 align="center">✉️ Contato</h3>
 <div align="center">
-  <a href="https://www.linkedin.com/in/joaozao/" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/neythan/" alt="LinkedIn">
     <img align="center" alt="LinkedIn" height="50" width="50" src="Lk.png" />
   </a>
 </div>
