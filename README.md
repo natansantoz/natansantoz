@@ -1,4 +1,6 @@
-<h2 align="center">Olá! Sou Natã, um entusiasta da tecnologia 👨🏻‍💻.</h2>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=06202B&height=120&section=header"/>
+
+<h2 align="center">Olá! Bem vindo ao meu perfil👨🏻‍💻.</h2>
 
 - 🔬 Cursando Ciência da Computação no IFNMG.
 - 🛠️ Atualmente, tenho focado meus estudos em Desenvolvimento de Software e Aprendizado de Máquina.
@@ -6,18 +8,29 @@
 <br>
 
 <div align="center">
-  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <a href="https://www.java.com" target="_blank">
+    <img alt="Java" src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=coffeescript&logoColor=white" />
+  </a>
+  <a href="https://spring.io" target="_blank">
+    <img alt="Spring" src="https://img.shields.io/badge/spring-000000?&style=for-the-badge&logo=spring&logoColor=white" />
+  </a>
+  <a href="https://angular.dev/" target="_blank">
+    <img alt="Angular" src="https://img.shields.io/badge/Angular-000000?style=for-the-badge&logo=angular&logoColor=white" />
+  </a>
+  <a href="https://www.python.org" target="_blank">
+    <img alt="Python" src="https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white" />
+  </a>
+  <a href="https://www.cplusplus.com" target="_blank">
+    <img alt="C++" src="https://img.shields.io/badge/C++-000000?&style=for-the-badge&logo=cplusplus&logoColor=white" />
+  </a>
 </div>
 
 ##
 
-<h3 align="center">🔗 Contato</h3>
+<h3 align="center">✉️ Contato</h3>
 <div align="center">
-  <a href="https://www.linkedin.com/in/neythan" target="_blank">
-    <img align="center" alt="LinkedIn" height="30" width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />
+    <img align="center" alt="LinkedIn" height="40" width="40" src="Lk.png" />
+
   </a>
 </div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=06202B&height=120&section=footer"/>
