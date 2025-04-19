@@ -35,7 +35,7 @@
 
 <h3 align="center">✉️ Contato</h3>
 <div align="center">
-  <a href="https://www.linkedin.com/in/neythan/" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/neythan/" alt="LinkedIn" target="_blank">
     <img align="center" alt="LinkedIn" height="40" width="40" src="darkLinkedin.png" />
   </a>
 </div>
