@@ -46,7 +46,6 @@
 
 <br>
 
-| ![](https://github-readme-stats.vercel.app/api/top-langs/?username=natansantoz&theme=github_dark&hide_border=true) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=natansantoz&theme=github_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=natansantoz&theme=github_dark&hide_border=true) |
-| :-: | :-: | :-: |
+
 
 
