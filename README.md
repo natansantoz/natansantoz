@@ -1,14 +1,9 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=06202B&height=100&section=header"/>
+<!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=06202B&height=100&section=header"/>
 
-
-<div style="display: inline_block" align="center">
-  <p>
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=25&duration=1600&pause=120000&color=EEEEEE&center=true&width=600&height=42&lines=Ol%C3%A1!+Bem-vindo(a)+ao+meu+perfil!"/>
-</div>
 
 ##
 
-<br>
+<br> -->
 
 - 🔬 Cursando Ciência da Computação no IFNMG.
 - 🛠️ Atualmente, tenho focado meus estudos em Desenvolvimento de Software e Aprendizado de Máquina.
@@ -41,10 +36,6 @@
     <img align="center" alt="LinkedIn" height="40" width="40" src="darkLinkedin.png" />
   </a>
 </div>
-
-<br>
-
-<br>
 
 
 <!--
